@@ -31,14 +31,99 @@ In summary, the primary objective of the course is help you experience the imple
 
 Schedule overview summarizes the major topics of the class and when they will be covered throughout the term.
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1-5 | Electronics review |
-| 6-7 |  {{< br >}}{{< br >}} Schematics {{< br >}}{{< br >}} Documentation {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Electronics review (cont.) {{< br >}}{{< br >}} Schematics (cont.) {{< br >}}{{< br >}} PCB's {{< br >}}{{< br >}} Assembly and debug {{< br >}}{{< br >}} Documentation (cont.) {{< br >}}{{< br >}}  |
-| 9-11 | PCB's (cont.) |
-| 12-13 | Assembly and debug (cont.) |
-| 14 |  {{< br >}}{{< br >}} Assembly and debug (cont.) {{< br >}}{{< br >}} Documentation (cont.) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-5
+{{< tdclose >}}
+{{< tdopen >}}
+Electronics review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schematics
+
+Documentation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Electronics review (cont.)
+
+Schematics (cont.)
+
+PCB's
+
+Assembly and debug
+
+Documentation (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+PCB's (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Assembly and debug (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assembly and debug (cont.)
+
+Documentation (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments, Projects, and Grading
 ----------------------------------
@@ -62,13 +147,66 @@ The first half of the class will utilize problem sets based on the introductory 
 
 Grading will be based on the following criteria:
 
-| ACTIVITIES | PercenTAGES |
-| --- | --- |
-| Homework | 30% |
-| Documentation: Functional | 10% |
-| Schematic | 25% |
-| Layout | 25% |
-| Documentation: Test, debug, results | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PercenTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Documentation: Functional
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Schematic
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Layout
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Documentation: Test, debug, results
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The class will have no exams.
 

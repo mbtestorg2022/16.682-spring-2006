@@ -4,19 +4,350 @@ title: Calendar
 uid: 0cb6be5f-80d8-734a-81be-2b744d43f9be
 ---
 
-| WEEK # | LECTURE TOPICS | LAB TOPICS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | (Re)Introduction to design | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Review of E&M concepts (voltage, current, power, etc.) {{< br >}}{{< br >}} Discrete components (resistors, caps, transistors, etc.) {{< br >}}{{< br >}}  | &nbsp; | Homework 1 out |
-| 3 |  {{< br >}}{{< br >}} Discrete components: Transistors {{< br >}}{{< br >}} Power components {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab: Protoboard with transistor {{< br >}}{{< br >}} Lab: Protoboard with power components {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 1 due {{< br >}}{{< br >}} Homework 2 out {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Digital components {{< br >}}{{< br >}} Thinking digital {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab: Protoboard digital circuits {{< br >}}{{< br >}} Lab: Inputs (push-buttons, toggles, clocks) and outputs {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 2 due {{< br >}}{{< br >}} Homework 3 out {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Processors {{< br >}}{{< br >}} Interfacing digital and analog {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PIC demo {{< br >}}{{< br >}} Analog and PWM demo {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 3 due {{< br >}}{{< br >}} Homework 4 out {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Schematics: Introduction {{< br >}}{{< br >}} Schematics: Parts {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Schematics lab {{< br >}}{{< br >}}  | Homework 4 due |
-| 7 |  {{< br >}}{{< br >}} Schematics: Advanced tools {{< br >}}{{< br >}} Schematics: Finishing design {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Schematics lab (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} What is a PCB? {{< br >}}{{< br >}} PCB design: Basics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Schematic / Parts search {{< br >}}{{< br >}} Schematic / Layout lab {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} PCB design: Routing {{< br >}}{{< br >}} PCB design: Finishing {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Schematic / Layout lab {{< br >}}{{< br >}} Layout lab {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Documentation | Layout lab (cont.) | &nbsp; |
-| 11 | Assembly tips | Assembly lab | &nbsp; |
-| 12 | Testing and debugging PCB's | Testing and debugging PCB's | &nbsp; |
-| 13 | Testing and debugging PCB's (cont.) | Testing and debugging PCB's (cont.) | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Testing and debugging PCB's (cont.) {{< br >}}{{< br >}} Complex embedded systems {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Testing and debugging PCB's (cont.) {{< br >}}{{< br >}} DSP/SPHERES demo {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LAB TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+(Re)Introduction to design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review of E&M concepts (voltage, current, power, etc.)
+
+Discrete components (resistors, caps, transistors, etc.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discrete components: Transistors
+
+Power components
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab: Protoboard with transistor
+
+Lab: Protoboard with power components
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due
+
+Homework 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Digital components
+
+Thinking digital
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab: Protoboard digital circuits
+
+Lab: Inputs (push-buttons, toggles, clocks) and outputs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 due
+
+Homework 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Processors
+
+Interfacing digital and analog
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PIC demo
+
+Analog and PWM demo
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 3 due
+
+Homework 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schematics: Introduction
+
+Schematics: Parts
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schematics lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schematics: Advanced tools
+
+Schematics: Finishing design
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schematics lab (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What is a PCB?
+
+PCB design: Basics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schematic / Parts search
+
+Schematic / Layout lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PCB design: Routing
+
+PCB design: Finishing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schematic / Layout lab
+
+Layout lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Documentation
+{{< tdclose >}}
+{{< tdopen >}}
+Layout lab (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Assembly tips
+{{< tdclose >}}
+{{< tdopen >}}
+Assembly lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Testing and debugging PCB's
+{{< tdclose >}}
+{{< tdopen >}}
+Testing and debugging PCB's
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Testing and debugging PCB's (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Testing and debugging PCB's (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Testing and debugging PCB's (cont.)
+
+Complex embedded systems
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Testing and debugging PCB's (cont.)
+
+DSP/SPHERES demo
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
