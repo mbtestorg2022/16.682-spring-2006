@@ -8,6 +8,7 @@ description: 'This resource includes lecture slides with a teview/introduction o
   own truth-tables.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-682-prototyping-avionics-spring-2006/43d3a82750ce78ca6b8ff26aa0f55a70_lect6.pdf
 file_type: application/pdf
+parent_uid: 2c369a02-9f64-7495-c2b3-4194036a2626
 resourcetype: Document
 title: lect6.pdf
 uid: 43d3a827-50ce-78ca-6b8f-f26aa0f55a70
